@@ -1,0 +1,2 @@
+# Energy-Consumption-Prediction-Linear-Regression-vs-Random-Forest
+This project explores the prediction of energy consumption using machine learning, with a focus on comparing Linear Regression and Random Forest models. It emphasizes understanding evaluation metrics (RMSE and R²) and examines how feature engineering—such as encoding categorical variables and extracting temporal features—affects model performance.
